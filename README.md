@@ -113,3 +113,4 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [2 way to deploy your ML models](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
 * [Which model and how much data](https://towardsdatascience.com/which-model-and-how-much-data-75a3999660f3)
 * [Implementation of SMOTE algorithm in Python to handle class imbalance](https://www.kaggle.com/qianchao/smote-with-imbalance-data)
+* [Interview Questions asked at Startups in Machine Learning](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
